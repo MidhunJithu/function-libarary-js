@@ -1,3 +1,4 @@
+//added with git
 //delay timing function
 function wait(ms){
     var start = new Date().getTime();
@@ -11,3 +12,4 @@ function wait(ms){
  function randgen() {
     return Math.floor((Math.random() * 6) + 1);
 }
+
